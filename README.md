@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Emergent%20Recursive%20Evolution&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
+<div align="center">
+   
 # Greeting‑Card Email Sender
 
 A simple web app (front‑end only) that lets you **design custom greeting cards right in the browser and send them as PNG attachments via e‑mail**—either one at a time or in bulk from a CSV file.
